@@ -1,0 +1,16 @@
+# Ignore dependencies (Even if they come back later)
+**/node_modules/
+**/target/
+**/.mvn/
+
+# Ignore IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables (Important for security)
+.env
