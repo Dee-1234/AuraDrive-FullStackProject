@@ -29,3 +29,6 @@ Project Flow
 2. Backend saves the ride as REQUESTED and notifies drivers via WebSocket.
 3. Driver fetches available rides and clicks Accept.
 4. Backend updates status to ACCEPTED and assigns the driver.
+
+Screen Shots
+https://github.com/Dee-1234/AuraDrive-FullStackProject/tree/main/ScreenShots
