@@ -9,17 +9,17 @@ Features
 
 🛠️ Tech Stack
 Backend (Spring Boot)
--Java 17+
--Spring Security & JWT (Role-based access)
--Spring Data JPA (MySQL/PostgreSQL)
--Lombok & ModelMapper
--Spring WebSocket
+1. Java 17+
+2. Spring Security & JWT (Role-based access)
+3. Spring Data JPA (MySQL/PostgreSQL)
+4. Lombok & ModelMapper
+5. Spring WebSocket
 
 Frontend (React)
--Vite
--Tailwind CSS
--Axios (with interceptors for JWT)
--React Router Dom
+1. Vite
+2. Tailwind CSS
+3. Axios (with interceptors for JWT)
+4. React Router Dom
 
 Database
 -PostgreSQL
